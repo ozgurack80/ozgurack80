@@ -1,4 +1,7 @@
-## Hi there 👋
+HELLO EVERYONE
+
+📫Contact me 
+- 📧 *E-Mail*: ozgurack@gmail.com
 
 ## My name is Özgür
 - 🚀 Software developer: I stepped into the world of software development during my university years. I love being in the software world.
@@ -13,7 +16,7 @@
 - I chose Java to use Selenium.
 - My favorite is C#. I developed most of my projects in C#
 
+💼Experiences
+- Software Developer at Veripark: C# developer
+- Test Automation Engineer at Siemens: Java and Selenium 
 
-##Contacts
-- 📧 *E-Mail*: ozgurack@gmail.com
-- 💼 *LinkedIn*: linkedin.com/in/ozgurack/
