@@ -15,6 +15,7 @@ HELLO EVERYONE
 - Then I learned C#.
 - I chose Java to use Selenium.
 - My favorite is C#. I developed most of my projects in C#
+- Recently, I’ve been diving into AI, exploring how to combine it with my coding skills.
 
 💼Experiences
 - Software Developer at Veripark: C# developer
